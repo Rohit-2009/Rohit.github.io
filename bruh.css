@@ -1,0 +1,162 @@
+.e{
+    text-align: center;
+    color: aqua;
+}
+body{
+    background: #12c2e9;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.f{
+    width: 20rem;
+    height: 15rem;
+}
+.t{
+    width: 20rem;
+    height: 15rem;
+}
+.o{
+    width: 20rem;
+    height: 15rem;
+}
+.e{
+    background-color: deepskyblue;
+    margin-right: 60rem;
+    margin-top: 7rem; 
+    margin-top: 7rem;
+}
+.i{
+    background-color: darkcyan;
+    margin-right: 60rem;
+    margin-top: 7rem; 
+    margin-top: 7rem;
+}
+.q{
+    background-color: dodgerblue;
+    margin-right: 60rem;
+    margin-top: 7rem; 
+    margin-top: 7rem;
+}
+
+.b{
+    width: 20rem;
+    height: 5rem;
+    background-color: crimson;
+}
+button{
+    background-color: navy;
+    color: orangered;
+    width: 5rem;
+    height: 3rem;
+    border-radius: 1.5rem;
+    margin: 1rem 8rem 1rem 7rem;
+}
+img{
+    width: 25rem;
+    height: 25rem;
+}
+.lo{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+}
+.l{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+}
+.bw{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 2rem;
+    left: 25 rem;
+}
+.fw{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 2rem;
+    right: 10rem;
+}
+.ws{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 2rem;
+    left: 25rem;
+}
+.sw{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 45rem;
+    left: 25rem;
+
+}
+.gmr{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 45rem;
+    right: 10rem;
+}
+.lmg{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 45rem;
+    left: 25rem;
+}
+.kw{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 45rem;
+    left: 25rem;
+
+}
+.gws{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 45rem;
+    right: 10rem;
+}
+.gof{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 45rem;
+    left: 25rem;
+}
+.pmow{
+    border-radius: 1rem;
+    background-color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    width: 20rem;
+    position: absolute;
+    top: 45rem;
+    left: 25rem;
+}
